@@ -1,10 +1,10 @@
-# labs-auction-goexpert-master
+- labs-auction-goexpert-master
 
 Sistema de leilão desenvolvido em Go com persistência em MongoDB. Esse projeto foi criado como parte de um estudo prático com foco em boas práticas de arquitetura e organização de código.
 
 ---
 
-## Pré-requisitos
+- Pré-requisitos
 
 Antes de rodar o projeto, você precisará ter instalado:
 
@@ -15,7 +15,7 @@ Antes de rodar o projeto, você precisará ter instalado:
 
 ---
 
-## Estrutura do Projeto
+- Estrutura do Projeto
 
 abs-auction-goexpert-master/
 ├── cmd/auction/ # Ponto de entrada do app (main.go)
@@ -28,7 +28,7 @@ abs-auction-goexpert-master/
 
 ---
 
-## Rodando em ambiente local
+- Rodando em ambiente local
 
 ### 1. Clone o repositório
 git clone https://github.com/mourasjames/labs-auction-goexpert-master.git
