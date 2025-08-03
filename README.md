@@ -36,5 +36,3 @@ cd labs-auction-goexpert-master
 
 ### 2.
 docker-compose up -d
-
-
